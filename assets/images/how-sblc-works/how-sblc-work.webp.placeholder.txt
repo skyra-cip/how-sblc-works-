@@ -1,0 +1,2 @@
+<!-- Placeholder file for optimized WebP image. Replace this file with the optimized binary at the same path when ready. -->
+README: Replace with how-sblc-work.webp (optimized).
